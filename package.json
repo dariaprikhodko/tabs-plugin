@@ -1,0 +1,23 @@
+{
+  "name": "tabs-plugin",
+  "version": "1.0.0",
+  "description": "native JS plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dariaprikhodko/tabs-plugin.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "dariaprikhodko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dariaprikhodko/tabs-plugin/issues"
+  },
+  "homepage": "https://github.com/dariaprikhodko/tabs-plugin#readme"
+}
